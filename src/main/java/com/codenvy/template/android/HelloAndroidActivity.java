@@ -1,4 +1,7 @@
+//classic-killer-07
+
 package com.codenvy.template.android;
+
 
 import android.app.Activity;
 import android.os.Bundle;
